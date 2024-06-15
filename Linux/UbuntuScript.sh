@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-echo "Edited by Tieran Ardizzone, Corn Scammers, SETA, San Antonio, TX, USA"
+echo "Edited by Tieran Ardizzone, Corn Scammers, Bush Middle School, San Antonio, TX, USA"
 echo "Last Modified on Wednesday, December 6th, 2023, 11:03am"
 echo "Ubuntu Script"
 startTime=$(date +"%s")
